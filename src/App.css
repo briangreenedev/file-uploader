@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.file-history-item-success {
+  color:forestgreen;
+}
+
+.file-history-item-error {
+  color:maroon
+}
